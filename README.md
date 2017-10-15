@@ -1,3 +1,3 @@
-# Clojang Resources
+# Clozhang Resources
 
-*Images, etc. For Use by Clojang Projects*
+*Images, etc. For Use by Clozhang Projects*
